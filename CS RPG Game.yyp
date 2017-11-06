@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "0866c7b2-2470-4ea4-b6b1-f38dabeaa8f8",
+            "Value": {
+                "id": "f8666e89-e3bd-4251-b8a9-346195b495a5",
+                "resourcePath": "tilesets\\tsVillage\\tsVillage.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "0eb8f46d-d2ac-4ac4-92a6-eee2a7b60170",
             "Value": {
                 "id": "bc4ca45b-8e7f-4c0e-a501-d0a221a3dc16",
@@ -92,14 +100,6 @@
                 "id": "332af1b3-c2d2-412e-98ea-c700ca2e3703",
                 "resourcePath": "views\\44002419-582a-40e7-aa41-d6bfb478deba.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "48bb30b5-ecba-4ef0-a351-1af0329b2587",
-            "Value": {
-                "id": "0f9de58e-46ba-471e-949f-0f8a30b19676",
-                "resourcePath": "sprites\\sprite7\\sprite7.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -196,6 +196,30 @@
                 "id": "3af64d4a-da22-48a1-8566-472733a0a5b8",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "a91a8ed8-5882-4445-a650-c1b7053570bd",
+            "Value": {
+                "id": "9c5a5e93-e53e-4ae1-8901-9e6ca400fdeb",
+                "resourcePath": "sprites\\sprVillageTileSet\\sprVillageTileSet.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ad252612-7e3d-4af4-b973-fefd2576b98c",
+            "Value": {
+                "id": "1d09359f-7c3e-4648-9dd5-37008cd2adad",
+                "resourcePath": "tilesets\\tileset1\\tileset1.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "b63e8d74-433a-471d-962e-1abf19652a22",
+            "Value": {
+                "id": "214c7c13-a838-450e-91c8-160db76fda95",
+                "resourcePath": "sprites\\sprGrass\\sprGrass.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
