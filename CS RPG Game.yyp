@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "57f19b1d-c6d3-4eb0-b75d-c8b0d345603b",
+            "Value": {
+                "id": "3babacc4-4014-4316-bb50-d6f502f0b42b",
+                "resourcePath": "scripts\\scr_get_player_movement\\scr_get_player_movement.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "601a7c6d-2bd6-4690-a649-e8c2b053964d",
             "Value": {
                 "id": "82ab89ba-6065-4d7c-a664-aaeaca901290",
@@ -140,6 +148,14 @@
                 "id": "2013137e-bf6f-4428-bc28-eb2b78d54155",
                 "resourcePath": "views\\68b596ef-f33c-4612-9d25-5f4f8136d157.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6b2cfddf-b7c7-48aa-a664-4e0236038fc3",
+            "Value": {
+                "id": "18f94e97-2160-4f1f-855b-d8678dbbc77f",
+                "resourcePath": "scripts\\scr_set_frozen_state\\scr_set_frozen_state.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -175,6 +191,14 @@
             }
         },
         {
+            "Key": "89511fa6-bb00-437e-9d2f-45852ec48d60",
+            "Value": {
+                "id": "662d48fe-8864-4098-81be-29e160fe8b5e",
+                "resourcePath": "sprites\\sprGrass2\\sprGrass2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8a65b66b-550a-460b-ab03-b7e4b9fe220d",
             "Value": {
                 "id": "dee4ed7a-5689-4e9e-9630-c15400eeff0b",
@@ -204,14 +228,6 @@
                 "id": "9c5a5e93-e53e-4ae1-8901-9e6ca400fdeb",
                 "resourcePath": "sprites\\sprVillageTileSet\\sprVillageTileSet.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "ad252612-7e3d-4af4-b973-fefd2576b98c",
-            "Value": {
-                "id": "1d09359f-7c3e-4648-9dd5-37008cd2adad",
-                "resourcePath": "tilesets\\tileset1\\tileset1.yy",
-                "resourceType": "GMTileSet"
             }
         },
         {
@@ -328,7 +344,8 @@
         }
     ],
     "script_order": [
-        
+        "57f19b1d-c6d3-4eb0-b75d-c8b0d345603b",
+        "6b2cfddf-b7c7-48aa-a664-4e0236038fc3"
     ],
     "tutorial": ""
 }
